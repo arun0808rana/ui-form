@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ui-form/static/css/main.f2ce455c.chunk.css",
-    "main.js": "/ui-form/static/js/main.b18ebcf9.chunk.js",
-    "main.js.map": "/ui-form/static/js/main.b18ebcf9.chunk.js.map",
-    "runtime-main.js": "/ui-form/static/js/runtime-main.b9297a26.js",
-    "runtime-main.js.map": "/ui-form/static/js/runtime-main.b9297a26.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/ui-form/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b211ac34.chunk.js": "/ui-form/static/js/2.b211ac34.chunk.js",
-    "static/js/2.b211ac34.chunk.js.map": "/ui-form/static/js/2.b211ac34.chunk.js.map",
+    "main.css": "/ui-form/static/css/main.ce7db5d6.chunk.css",
+    "main.js": "/ui-form/static/js/main.ed9307ab.chunk.js",
+    "main.js.map": "/ui-form/static/js/main.ed9307ab.chunk.js.map",
+    "runtime-main.js": "/ui-form/static/js/runtime-main.a9f27dea.js",
+    "runtime-main.js.map": "/ui-form/static/js/runtime-main.a9f27dea.js.map",
+    "static/css/2.b0704b7a.chunk.css": "/ui-form/static/css/2.b0704b7a.chunk.css",
+    "static/js/2.1c1b9bc4.chunk.js": "/ui-form/static/js/2.1c1b9bc4.chunk.js",
+    "static/js/2.1c1b9bc4.chunk.js.map": "/ui-form/static/js/2.1c1b9bc4.chunk.js.map",
     "index.html": "/ui-form/index.html",
-    "precache-manifest.b8fe7a2df1db9ff0be4b73c8099af9ca.js": "/ui-form/precache-manifest.b8fe7a2df1db9ff0be4b73c8099af9ca.js",
+    "precache-manifest.64a1b645394d84c899031519ecdf6d8d.js": "/ui-form/precache-manifest.64a1b645394d84c899031519ecdf6d8d.js",
     "service-worker.js": "/ui-form/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/ui-form/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.f2ce455c.chunk.css.map": "/ui-form/static/css/main.f2ce455c.chunk.css.map",
-    "static/js/2.b211ac34.chunk.js.LICENSE.txt": "/ui-form/static/js/2.b211ac34.chunk.js.LICENSE.txt",
+    "static/css/2.b0704b7a.chunk.css.map": "/ui-form/static/css/2.b0704b7a.chunk.css.map",
+    "static/css/main.ce7db5d6.chunk.css.map": "/ui-form/static/css/main.ce7db5d6.chunk.css.map",
+    "static/js/2.1c1b9bc4.chunk.js.LICENSE.txt": "/ui-form/static/js/2.1c1b9bc4.chunk.js.LICENSE.txt",
     "static/media/CustomForm.css": "/ui-form/static/media/sterioRecord.9322ec6f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9297a26.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b211ac34.chunk.js",
-    "static/css/main.f2ce455c.chunk.css",
-    "static/js/main.b18ebcf9.chunk.js"
+    "static/js/runtime-main.a9f27dea.js",
+    "static/css/2.b0704b7a.chunk.css",
+    "static/js/2.1c1b9bc4.chunk.js",
+    "static/css/main.ce7db5d6.chunk.css",
+    "static/js/main.ed9307ab.chunk.js"
   ]
 }
