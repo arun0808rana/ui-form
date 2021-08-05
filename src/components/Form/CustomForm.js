@@ -103,7 +103,7 @@ function CustomForm() {
                     <div className='companyMotto'>
                         <div className='companyMascot mb-2'></div>
                         <div className='welcome text-center '>Welcome To</div>
-                        <div className='companyName h5 text-center '>SongDew</div>
+                        <div className='companyName h5 text-center '>Company Name</div>
                     </div>
                 </Col>
 
